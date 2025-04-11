@@ -43,6 +43,8 @@ Issues
 * The inference time of 142 seconds is slower than expected.
 * The reponse is truncated.
 
+I tested on latest transformers version 4.51.2 and the same issues duplicate.
+
 # References
 
 * DeepSeek-R1 1.5B model on [huggingface](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B/tree/main).  The `model.safetensors` are 3.55GB.
