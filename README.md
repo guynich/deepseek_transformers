@@ -59,6 +59,8 @@ Took 2.9 seconds
 (venv_deepseek_transformers) (base) guynicholson@Precision5820:~/deepseek_transformers$
 ```
 
+I tested on latest transformers version 4.51.2 and the same issues duplicate.
+
 # References
 
 * DeepSeek-R1 1.5B model on [huggingface](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B/tree/main).  The `model.safetensors` are 3.55GB.
